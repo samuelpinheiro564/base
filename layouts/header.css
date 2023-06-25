@@ -1,5 +1,7 @@
 body{
     background-color: orange;
+     display: fixed;
+     
 }
 h1{
     text-align: center;
