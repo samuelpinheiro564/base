@@ -1,15 +1,3 @@
 body{
-    background-color: orange;
-     display: fixed;
-     
-}
-h1{
-    text-align: center;
-}
-#imagem{
-    width: 90%;
- height: auto;
-}
-#a1{
-    text-align: center;
+    margin: 0;
 }
