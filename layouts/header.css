@@ -1,3 +1,22 @@
 body{
     margin: 0;
 }
+#imagens{
+    width:100%;
+    height: 70%;
+}
+#img-1{
+    width: 40%;
+    height: 40%;
+}
+#logo{
+    text-align: center;
+}
+#logos{
+    background-color: rgb(137, 235, 52);
+    display: flex;
+}
+.ima{
+    width: 25%;
+  margin: 4%;
+}
