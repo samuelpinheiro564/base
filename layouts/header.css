@@ -11,6 +11,8 @@ body{
 }
 #logo{
     text-align: center;
+    background-image: url(../acets/imagens/a1.png);
+ 
 }
 #logos{
     background-color: rgb(137, 235, 52);
